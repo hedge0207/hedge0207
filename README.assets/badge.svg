@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="106" height="20">
+ <linearGradient id="smooth" x2="0" y2="100%">
+   <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+   <stop offset="1" stop-opacity=".1"/>
+ </linearGradient>
+
+ <mask id="round">
+   <rect width="106" height="20" rx="3" ry="3" fill="#fff"/>
+ </mask>
+
+ <g mask="url(#round)">
+   <rect width="61" height="20" fill="#000000"/>
+   <rect x="61" width="45" height="20" fill="#79C83D"/>
+   <rect width="106" height="20" fill="url(#smooth)"/>
+ </g>
+
+ <g fill="#fff" text-anchor="middle" font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-size="11"> 
+   <image x="3" y="2.5" width="21" height="15" xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRTdFN0U3IiAgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI&#43;PHRpdGxlPlBpbmJvYXJkIGljb248L3RpdGxlPjxwYXRoIGQ9Ik0xMy4zNTIgMTQuNTg1bC00LjUwOSA0LjYxNC43Mi00LjA2MkwzLjQyOCA3LjU3IDAgNy43NTMgNy41OCAwdjIuOTUzbDcuMjE0IDYuNjQ2IDQuNTEzLTEuMTA1LTQuNjg5IDQuOTgyTDI0IDI0bC0xMC42NDgtOS40MTV6Ii8&#43;PC9zdmc&#43;"/>
+   <text x="40" y="15" fill="#010101" fill-opacity=".3">Visits</text>
+   <text x="40" y="14" fill="#fff">Visits</text>
+   <text x="83.5" y="15" fill="#010101" fill-opacity=".3"> 1 / 1 </text>
+   <text x="83.5" y="14" fill="#fff"> 1 / 1 </text>
+ </g>
+</svg>
