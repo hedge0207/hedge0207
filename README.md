@@ -1,6 +1,6 @@
 ### 안녕하세요 ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-[![Hits](README.assets/badge.svg)](https://hits.seeyoufarm.com)[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hedge0207.github.io/)](https://hedge0207.github.io/)
+![Hits](README.assets/badge.svg)  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hedge0207.github.io/)](https://hedge0207.github.io/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
