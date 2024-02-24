@@ -1,1 +1,1 @@
-### 안녕하세요 ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+### 안녕하세요! 3년차 검색 개발자입니다.
